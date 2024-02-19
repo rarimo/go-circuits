@@ -1,4 +1,4 @@
-module github.com/iden3/go-circuits/v2
+module github.com/rarimo/go-circuits
 
 go 1.18
 
